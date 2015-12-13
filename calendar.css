@@ -1,0 +1,37 @@
+.cal-table {
+	width: 320px;
+	height: 320px;
+	margin: 10px;
+	background-color: #CEFCE5;
+	border: 3px #76DDA8 solid;
+	border-radius: 5px;
+	text-align: center;
+	font-family: Helvetica;
+	padding: 15px;
+	color: #53D392;
+}
+
+button {
+	background-color: #53D392;
+	border: #A9FCD2;
+	color: #A9FCD2;
+	border-radius: 2px;
+	padding: 5px;
+	padding-top: 2px;
+	padding-bottom: 4px;
+	position: relative;
+	top: -5px;
+}
+
+.other-month-day {
+	color: #B8DDCA;
+}
+
+#cal-title {
+	padding: 15px;
+	font-size: 22px;
+}
+
+.month-days {
+	padding: 5px;
+}
